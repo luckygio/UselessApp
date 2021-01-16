@@ -1,0 +1,43 @@
+[
+    {
+    "stepnum": 1,
+    "stepname": "Make a dough",
+    "img": "https://cdn2.iconfinder.com/data/icons/bakery-related-line/64/bakery_pastry_cooking-20-512.png"
+    },
+    
+    {
+    "stepnum": 2,
+    "stepname": "Prepare meat for Khinkali",
+    "img": "https://cdn2.iconfinder.com/data/icons/butcher-3/64/34_grinder_minced_butcher_shop_meat_food-512.png"
+    },
+    {
+    "stepnum": 3,
+    "stepname": "Roll out the dough",
+    "img": "https://static.thenounproject.com/png/964566-200.png"
+    },
+{
+    "stepnum": 4,
+    "stepname": "Cut dough on small pieces",
+    "img": "https://www.iconbunny.com/icons/media/catalog/product/3/7/3750.1-rolling-dough-icon-iconbunny.jpg"
+    },
+{
+    "stepnum": 5,
+    "stepname": "Put meat in dough and wrap it",
+    "img": "https://static.thenounproject.com/png/2824149-200.png"
+    },
+{
+    "stepnum": 6,
+    "stepname": "Serve with black pepper",
+    "img": "https://cdn4.iconfinder.com/data/icons/country-georgia/1200/Single_14CartoonGeorgiaSosedova-512.png"
+    },
+    {
+    "stepnum": 7,
+    "stepname": "How to eat?",
+    "img": "https://www.georgianjournal.ge/media/images/georgianews/2015/May/Cuisine/xinklis%20chamis%20cesi.jpg"
+    },
+{
+    "stepnum": 8,
+    "stepname": "Bon appétit",
+    "img": "https://st3.depositphotos.com/7309078/13859/v/380/depositphotos_138597610-stock-illustration-khinkali-dumplings-with-meat-hand.jpg"
+    }
+]
